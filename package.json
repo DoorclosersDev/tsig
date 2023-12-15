@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "aos": "^2.3.4",
+    "bootstrap-icons": "^1.11.2",
+    "firebase": "^10.6.0"
+  },
+  "name": "tsig",
+  "version": "1.0.0",
+  "devDependencies": {
+    "html-webpack-plugin": "^5.5.3",
+    "webpack": "^5.89.0",
+    "webpack-cli": "^5.1.4"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
